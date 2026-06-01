@@ -10,13 +10,15 @@ Full-Stack Developer · Startup Builder · Aspiring Game Dev
 
 🌐 Web: Full-stack apps with Next.js, Supabase, TypeScript
 
-🎮 Next quest: Game systems with Unity & C#
+🤖 AI-augmented: Using Claude Code, Cursor to ship faster and think deeper
 
-⚡ Special Skill: Turning ideas into working products fast
+🎮 Loading next quest: Building a game with Unity & C# — coming to this profile soon
+
+⚡ Special Skill: Turning ideas into working products fast — with or without AI
 
 💡 My goal is to create impactful digital products that people actually use and enjoy.
 
-Every commit = +EXP
+Every commit = +EXP · Every AI prompt = skill multiplier
 
 Every project = Level Up 🚀
 
